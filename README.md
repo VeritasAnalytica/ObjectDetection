@@ -115,27 +115,6 @@ Label Sprite: 2
 
 ## 📚 References
 
-- [Kaggle Notebook](https://www.kaggle.com/)
 - [YOLOv5 GitHub](https://github.com/ultralytics/yolov5)
 
 ---
-
-## 💜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 💡 Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
-
----
-
-## 💎 Contact
-
-For any questions or suggestions, please reach out via:
-
-- GitHub Issues
-- Email: veritasanalyticas@gmail.com
-
