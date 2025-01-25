@@ -115,6 +115,7 @@ Label Sprite: 2
 
 ## 📚 References
 
+- [Kaggle Notebook](https://www.kaggle.com/code/veritasanalytica/object-detection-demo)
 - [YOLOv5 GitHub](https://github.com/ultralytics/yolov5)
 
 ---
